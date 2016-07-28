@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"link" ],
+	"name" : "MXTestSimpleRss",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }
