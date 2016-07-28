@@ -1,4 +1,8 @@
 *magritte-xmlbinding
 descriptionXmlElementName
 	<magritteDescription>
-	^ MAStringDescription selector: #xmlElementName label: 'XML Element Name' priority: 1000
+	^ MAStringDescription new 
+		accessor: #xmlElementName;
+		label: 'XML Element Name';
+		priority: 1000;
+		yourself
