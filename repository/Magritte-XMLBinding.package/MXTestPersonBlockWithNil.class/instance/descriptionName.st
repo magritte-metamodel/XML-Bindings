@@ -1,4 +1,4 @@
-as yet unclassified
+accessing-description
 descriptionName
 	^ super descriptionName
 		xmlReadBlock: [ :elem | elem attributeAt: 'blck' ifAbsent: [ nil ] ]

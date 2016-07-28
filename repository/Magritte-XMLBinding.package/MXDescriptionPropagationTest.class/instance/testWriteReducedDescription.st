@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testWriteReducedDescription
 	| doc |
 	doc := self reducedSimpleDescription toXmlDocument: self simpleObject.

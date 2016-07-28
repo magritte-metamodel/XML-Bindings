@@ -1,4 +1,4 @@
-as yet unclassified
+accessing-description
 descriptionFilePharo: aDescription
 	<magritteDescription: #descriptionFile>
 	^ aDescription

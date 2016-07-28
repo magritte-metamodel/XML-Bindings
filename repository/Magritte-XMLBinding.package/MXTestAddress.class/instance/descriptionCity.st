@@ -1,4 +1,4 @@
-as yet unclassified
+accessing-magritte
 descriptionCity
 	<magritteDescription>
 	^ MAStringDescription new

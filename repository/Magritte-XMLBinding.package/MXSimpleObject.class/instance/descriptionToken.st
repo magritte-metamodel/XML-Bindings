@@ -1,4 +1,4 @@
-as yet unclassified
+description
 descriptionToken
 	<magritteDescription>
 	^ MAStringDescription new

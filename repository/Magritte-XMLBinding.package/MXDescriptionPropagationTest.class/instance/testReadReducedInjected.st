@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReadReducedInjected
 	| obj |
 	obj := self reducedSimpleDescription bePreserved fromXml: self simpleObjectXml.

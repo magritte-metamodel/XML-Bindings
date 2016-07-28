@@ -1,4 +1,4 @@
-as yet unclassified
+accessing-magritte
 descriptionPostalCode
 	<magritteDescription>
 	^ MAStringDescription new

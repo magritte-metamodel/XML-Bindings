@@ -1,4 +1,4 @@
-as yet unclassified
+accessing-description
 descriptionAbstract
 	<magritteDescription>
 	^ MAStringDescription new

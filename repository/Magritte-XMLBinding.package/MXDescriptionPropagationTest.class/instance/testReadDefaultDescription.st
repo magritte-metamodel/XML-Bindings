@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReadDefaultDescription
 	| obj |
 	obj := self simpleObject magritteDescription fromXml: self simpleObjectXml.

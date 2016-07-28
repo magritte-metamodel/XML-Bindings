@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReadReducedInherited
 	| obj |
 	obj := self reducedSimpleDescription fromXml: self simpleObjectXml.

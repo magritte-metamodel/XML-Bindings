@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testToOneRelation
 
 	| person xml created |
