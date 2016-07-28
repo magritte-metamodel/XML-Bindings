@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Tests-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"file",
+		"abstract" ],
+	"name" : "MXFileObject",
+	"pools" : [
+		 ],
+	"super" : "MXObject",
+	"type" : "normal" }

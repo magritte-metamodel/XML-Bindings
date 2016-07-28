@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-Tests-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"postalCode",
+		"city" ],
+	"name" : "MXTestAddress",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Magritte-Tests-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"address",
+		"favouriteHobby",
+		"otherHobbies",
+		"otherAddresses" ],
+	"name" : "MXTestPerson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

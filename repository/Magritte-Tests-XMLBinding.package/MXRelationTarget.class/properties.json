@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-Tests-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title" ],
+	"name" : "MXRelationTarget",
+	"pools" : [
+		 ],
+	"super" : "MXObject",
+	"type" : "normal" }
