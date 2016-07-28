@@ -1,0 +1,3 @@
+*magritte-xmlbinding
+defaultIsExportable
+	^ false 

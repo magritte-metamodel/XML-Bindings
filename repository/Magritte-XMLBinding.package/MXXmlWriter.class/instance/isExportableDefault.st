@@ -1,0 +1,3 @@
+accessing
+isExportableDefault
+	^ isExportableDefault

@@ -10,4 +10,4 @@ visitToOneRelationDescription: aDescription
 			self node: (aDescription xmlTarget addNodeTo: self containerNode).
 			referenceDescription := aDescription reference ifNil: [ self descriptionFor: value].
 			referenceDescription xmlWriter
-				write: value description: referenceDescription to: self node ]
+				write: value description: referenceDescription to: self node isExportableDefault: self isExportableDefault ]

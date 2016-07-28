@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "jvds 10/18/2010 21:34",
 	"instvars" : [
-		"containerNode" ],
+		"containerNode",
+		"isExportableDefault" ],
 	"name" : "MXXmlWriter",
 	"pools" : [
 		 ],

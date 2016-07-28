@@ -12,4 +12,4 @@ visitToManyRelationDescription: aDescription
 					ifTrue: [ aDescription reference ] 
 					ifFalse: [ self descriptionFor: each ].
 				referenceDescription xmlWriter
-					write: each description: referenceDescription to: self node ]].
+					write: each description: referenceDescription to: self node isExportableDefault: self isExportableDefault ] ].
