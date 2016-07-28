@@ -1,4 +1,4 @@
 printing
 printXMLOn: aStream
-	self deprecated: 'use #writeXMLOn: instead'.
+	self greaseDeprecatedApi: 'MXObject>>printXMLOn:' details: 'use #writeXMLOn: instead'.
 	self writeXMLOn: aStream
