@@ -4,9 +4,10 @@ xmlElementName: aString
 	self propertyAt: #xmlTarget 
 		ifPresent: [ :target | target elementName: aString ] 
 		ifAbsent: [ self xmlTarget: (MXXmlNamedElementTarget new elementName: aString) ].
-	self propertyAt: #kind ifAbsentPut: [ 
+		
+	self isKindDefined ifFalse: [
 		| describedObject |
 		describedObject := self describedObject.
-		describedObject isNil
+		self kind: (describedObject isNil
 			ifTrue: [ MADescription defaultKind ]
-			ifFalse: [ describedObject class ] ]
+			ifFalse: [ describedObject class ]) ]
