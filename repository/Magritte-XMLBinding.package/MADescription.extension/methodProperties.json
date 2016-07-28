@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"defaultXmlReader" : "jvds 10/18/2010 21:27",
+		"defaultXmlWriter" : "jvds 10/18/2010 21:27" },
+	"instance" : {
+		"beXmlExportable" : "NorbertHartl 2/19/2010 17:53",
+		"defaultXmlElementName" : "jvds 9/16/2010 08:54",
+		"defaultXmlTarget" : "jvds 10/5/2010 23:27",
+		"descriptionXmlElementName" : "NickAger 1/31/2012 14:17",
+		"descriptionXmlReader" : "NickAger 1/31/2012 14:19",
+		"fromXml:" : "jvds 10/14/2010 14:24",
+		"fromXml:reader:" : "jvds 8/31/2010 10:30",
+		"fromXmlNode:" : "jvds 10/6/2010 21:40",
+		"fromXmlNode:reader:" : "jvds 10/6/2010 21:41",
+		"isXmlExportable" : "NorbertHartl 2/19/2010 17:53",
+		"toXml:" : "NorbertHartl 12/8/2011 15:54",
+		"toXmlDocument:" : "NorbertHartl 12/21/2010 15:02",
+		"toXmlNode:" : "NorbertHartl 12/21/2010 15:02",
+		"toXmlNode:parent:" : "NorbertHartl 12/21/2010 15:00",
+		"xmlElementName" : "jvds 10/10/2010 16:00",
+		"xmlElementName:" : "jvds 10/10/2010 16:03",
+		"xmlReadBlock:writeBlock:" : "jvds 10/10/2010 15:37",
+		"xmlReader" : "jvds 8/31/2010 11:59",
+		"xmlReader:" : "jvds 8/7/2010 12:19",
+		"xmlTarget" : "jvds 10/5/2010 22:02",
+		"xmlTarget:" : "jvds 10/5/2010 22:02",
+		"xmlWriter" : "jvds 10/10/2010 16:00",
+		"xmlWriter:" : "NorbertHartl 2/21/2010 18:15" } }

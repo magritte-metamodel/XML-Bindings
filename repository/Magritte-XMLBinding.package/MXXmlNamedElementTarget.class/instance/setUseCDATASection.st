@@ -1,0 +1,4 @@
+accessing
+setUseCDATASection
+
+	useCDATASection := true

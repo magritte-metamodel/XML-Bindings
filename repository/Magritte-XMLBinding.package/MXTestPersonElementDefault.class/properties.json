@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-XMLBinding-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MXTestPersonElementDefault",
+	"pools" : [
+		 ],
+	"super" : "MXTestPerson",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"read:description:" : "jvds 10/6/2010 21:39" },
+	"instance" : {
+		"read:description:" : "jvds 10/6/2010 21:49",
+		"readText:" : "jvds 10/6/2010 22:09",
+		"visitContainer:" : "NorbertHartl 10/12/2011 15:10",
+		"visitElementDescription:" : "jvds 10/7/2010 21:44",
+		"visitSingleOptionDescription:" : "NorbertHartl 11/02/2011 15:07",
+		"visitToManyRelationDescription:" : "NorbertHartl 1/25/2011 15:51",
+		"visitToOneRelationDescription:" : "NorbertHartl 11/13/2010 17:06" } }

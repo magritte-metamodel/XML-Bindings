@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doTestText:" : "jvds 10/22/2010 09:44",
+		"doTestTextEmpty:" : "jvds 10/22/2010 09:52",
+		"element" : "jvds 10/22/2010 09:33",
+		"person" : "jvds 10/22/2010 10:00",
+		"testNodeInlineElement" : "NorbertHartl 11/13/2010 17:28",
+		"testNodeNamedElement" : "jvds 10/22/2010 09:50",
+		"testNodeNamedElementEmpty" : "jvds 10/22/2010 09:51",
+		"testTextAttribute" : "jvds 10/22/2010 09:37",
+		"testTextAttributeEmpty" : "jvds 10/22/2010 09:53",
+		"testTextNamedElement" : "jvds 10/22/2010 09:40",
+		"testTextNamedElementCData" : "jvds 10/22/2010 13:04",
+		"testTextNamedElementEmpty" : "jvds 10/22/2010 09:53",
+		"testTextNestedAttribute" : "jvds 10/22/2010 09:42",
+		"testTextNestedAttributeEmpty" : "jvds 10/22/2010 09:53",
+		"testUndefined" : "jvds 10/22/2010 13:00" } }

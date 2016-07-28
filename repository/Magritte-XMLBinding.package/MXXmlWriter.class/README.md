@@ -1,0 +1,1 @@
+MXXmlWriter writes data to XMLElements using an object with its Magritte description.

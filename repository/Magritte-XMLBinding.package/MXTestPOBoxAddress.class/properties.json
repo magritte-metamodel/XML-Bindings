@@ -1,0 +1,14 @@
+{
+	"category" : "Magritte-XMLBinding-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pobox" ],
+	"name" : "MXTestPOBoxAddress",
+	"pools" : [
+		 ],
+	"super" : "MXTestAddress",
+	"type" : "normal" }

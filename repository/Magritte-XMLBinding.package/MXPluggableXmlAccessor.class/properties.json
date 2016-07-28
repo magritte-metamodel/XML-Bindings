@@ -1,0 +1,15 @@
+{
+	"category" : "Magritte-XMLBinding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jvds 10/18/2010 21:32",
+	"instvars" : [
+		"readBlock",
+		"writeBlock" ],
+	"name" : "MXPluggableXmlAccessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

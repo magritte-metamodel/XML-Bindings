@@ -1,0 +1,1 @@
+MXXmlTarget is the abstract root of a utitity class hierarchy used by MXXmlReader and MXXmlWriter to access the xml node tree structure.

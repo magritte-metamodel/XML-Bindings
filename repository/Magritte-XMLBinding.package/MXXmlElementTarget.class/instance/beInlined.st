@@ -1,0 +1,3 @@
+accessing
+beInlined
+	inlined := true

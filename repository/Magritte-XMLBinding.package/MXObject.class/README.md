@@ -1,0 +1,1 @@
+MXObject can be used as a superclass for objects that need to be marshalled to xml.

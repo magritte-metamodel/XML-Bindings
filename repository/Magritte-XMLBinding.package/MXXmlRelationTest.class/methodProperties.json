@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"findTitle:in:" : "NorbertHartl 2/17/2010 09:04",
+		"onoToMany" : "NorbertHartl 2/17/2010 13:37",
+		"onoToOne" : "NorbertHartl 2/17/2010 13:37",
+		"testOneToManyElementWrite" : "jvds 11/6/2010 13:08",
+		"testOneToManyInlineWrite" : "jvds 11/6/2010 13:06",
+		"testOneToManyRoundtrip" : "NickAger 2/1/2012 16:52",
+		"testOneToOneElementWrite" : "jvds 11/6/2010 13:04",
+		"testOneToOneInlineWrite" : "jvds 11/6/2010 13:00",
+		"testOneToOneRoundtrip" : "NickAger 2/1/2012 16:52" } }

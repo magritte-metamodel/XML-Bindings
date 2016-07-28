@@ -1,0 +1,1 @@
+MXXmlReader reads data from XMLElements and creates objects using the Magritte descriptions.

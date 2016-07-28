@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"forElementNamed:" : "NickAger 2/1/2012 16:10",
+		"forElementNamed:notFound:" : "NickAger 2/1/2012 16:10",
+		"fromXml:" : "NickAger 1/31/2012 12:29",
+		"fromXmlNode:" : "NickAger 1/31/2012 12:28",
+		"isAbstract" : "NorbertHartl 2/15/2010 11:27",
+		"withAllConcreteClasses" : "NorbertHartl 2/15/2010 11:27",
+		"withAllConcreteClassesDo:" : "NorbertHartl 2/15/2010 11:27",
+		"xmlElementName" : "NorbertHartl 02/18/2010 14:42" },
+	"instance" : {
+		"descriptionContainer" : "NickAger 1/31/2012 12:01",
+		"printXMLOn:" : "NickAger 1/31/2012 15:11",
+		"toXml" : "NorbertHartl 12/21/2010 14:40",
+		"toXml:" : "NickAger 1/31/2012 12:02",
+		"toXml:using:" : "jvds 8/31/2010 12:23",
+		"toXmlDocument" : "NorbertHartl 12/21/2010 15:14",
+		"writeXMLOn:" : "NickAger 1/31/2012 15:13" } }
