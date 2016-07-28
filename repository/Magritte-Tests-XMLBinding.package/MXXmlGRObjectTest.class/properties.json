@@ -6,13 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"address",
-		"favouriteHobby",
-		"otherHobbies",
-		"otherAddresses" ],
-	"name" : "MXTestPerson",
+		 ],
+	"name" : "MXXmlGRObjectTest",
 	"pools" : [
 		 ],
-	"super" : "GRObject",
+	"super" : "TestCase",
 	"type" : "normal" }
