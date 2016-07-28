@@ -11,4 +11,4 @@ testAsXmlExportableDefaultFalse
 		
 	xml := (person asXmlExportableDefault: false) greaseString.
 	
-	self assert: xml = '<person name="Pete"><otherHobbies>Tennis, Golf</otherHobbies></person>'.
+	self assert: xml = '<person name="Pete"><otherHobbies>Tennis</otherHobbies><otherHobbies>Golf</otherHobbies></person>'.

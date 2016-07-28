@@ -13,4 +13,4 @@ testAsXmlExportableDefaultTrue
 	   person asXmlExportableDefault: true
 	the 'true' exports using default attributes.'"	
 	xml := (person asXmlExportableDefault: true) greaseString.
-	self assert: xml = '<person name="Pete"><email>pete@tennisgolf.com</email><otherHobbies>Tennis, Golf</otherHobbies></person>'.
+	self assert: xml = '<person name="Pete"><email>pete@tennisgolf.com</email><otherHobbies>Tennis</otherHobbies><otherHobbies>Golf</otherHobbies></person>'.

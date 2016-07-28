@@ -10,7 +10,7 @@ testMultipleOption
 		
 	xml := person magritteDescription toXmlNode: person.
 	self assert: ((String streamContents: [:s|
-		xml writeXMLOn: (XMLWriter on: s)])  includesSubString: '<otherHobbies>Tennis, Golf</otherHobbies>').
+		xml writeXMLOn: (XMLWriter on: s)])  includesSubString: '<otherHobbies>Tennis</otherHobbies><otherHobbies>Golf</otherHobbies>').
 	
 	created := MXTestPerson new magritteDescription fromXmlNode: xml.
-	self assert: (person otherHobbies = created otherHobbies).
+	self assert: (person otherHobbies hasEqualElements: created otherHobbies).
