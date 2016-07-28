@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testXmlDocumentCreationFromObject
 	| object |
 	object := self simpleObject.

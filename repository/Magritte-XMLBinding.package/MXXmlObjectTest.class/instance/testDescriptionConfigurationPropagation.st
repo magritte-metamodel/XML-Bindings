@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testDescriptionConfigurationPropagation
 	| object desc xml result |
 	object := self simpleObject.
