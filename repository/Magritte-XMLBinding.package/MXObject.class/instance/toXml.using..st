@@ -1,3 +1,3 @@
 converting
 toXml: aParentNode using: aDescription
-	^aDescription toXmlNode: self parent: aParentNode
+	^ aDescription toXmlNode: self parent: aParentNode
