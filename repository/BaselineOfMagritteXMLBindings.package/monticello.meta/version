@@ -1,1 +1,2 @@
-(name 'BaselineOfMagritteXMLBindings-PeterUhnak.1' message 'Added baseline.' id '56641247-a19d-574b-8ff2-45edf2b29388' date '12 February 2017' time '10:53:28.411434 pm' author 'PeterUhnak' ancestors () stepChildren ())
+(name 'BaselineOfMagritteXMLBindings-PeterUhnak.2' message 'Incorrect nesting.' id 'fc62b7fa-e432-0049-84bf-fd3576fdfea8' date '12 February 2017' time '10:57:07.873434 pm' author 'PeterUhnak' ancestors ((name 'BaselineOfMagritteXMLBindings-PeterUhnak.1' message 'Added baseline.
+' id '73054eea-566e-5185-aa80-768302892164' date '12 February 2017' time '10:53:30 pm' author 'PeterUhnak' ancestors () stepChildren ())) stepChildren ())
