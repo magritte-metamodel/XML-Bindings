@@ -1,0 +1,1 @@
+Baseline for https://github.com/magritte-metamodel/XML-Bindings

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMagritteXMLBindings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PeterUhnak 2/12/2017 15:39",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMagritteXMLBindings",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
