@@ -14,6 +14,6 @@ baseline: spec
 						className: #ConfigurationOfMagritte3;
 						versionString: #stable;
 						repository: 'http://smalltalkhub.com/mc/Magritte/Magritte3/main/' ];
-				package: 'Magritte-Tests-XMLBinding';
+				package: 'Magritte-Tests-XMLBinding' with: [ spec requires: #('Magritte-XMLBinding') ];
 				package: 'Magritte-XMLBinding' with: [ spec requires: #(XMLParser Magritte) ];
 				group: 'default' with: #('Magritte-XMLBinding' 'Magritte-Tests-XMLBinding') ]
