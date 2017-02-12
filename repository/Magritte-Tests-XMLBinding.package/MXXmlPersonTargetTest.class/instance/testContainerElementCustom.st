@@ -1,6 +1,7 @@
 testing
 testContainerElementCustom
 	| description person node created |
+	self skip.
 
 	person := MXTestPerson new.
 	description := person magritteDescription.

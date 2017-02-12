@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testBooleanRead" : "jvds 8/5/2010 00:12",
-		"testBooleanWrite" : "jvds 11/6/2010 12:44",
-		"testDateWrite" : "jvds 11/6/2010 12:45",
-		"testMultipleOptionsRead" : "NickAger 3/29/2012 17:33",
-		"testMultipleOptionsWrite" : "NickAger 3/29/2012 17:48",
-		"testNumberWrite" : "jvds 11/6/2010 12:46",
-		"testSingleOptionRead" : "jvds 8/8/2010 15:48",
-		"testSingleOptionWrite" : "jvds 11/6/2010 12:47",
-		"testStringWrite" : "jvds 11/6/2010 12:48" } }
+		"testBooleanRead" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testBooleanWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testDateWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testMultipleOptionsRead" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testMultipleOptionsWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testNumberWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testSingleOptionRead" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testSingleOptionWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testStringWrite" : "SeanDeNigris 7/27/2016 20:52:23" } }

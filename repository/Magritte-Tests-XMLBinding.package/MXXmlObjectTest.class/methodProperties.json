@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"simpleObject" : "NorbertHartl 2/21/2010 08:04",
-		"testAttributeWrite" : "jvds 11/6/2010 13:14",
-		"testChildNodeAttributeWrite" : "jvds 11/6/2010 13:16",
-		"testChildNodeContentWrite" : "NickAger 2/1/2012 16:52",
-		"testDescriptionConfigurationPropagation" : "NickAger 1/31/2012 13:28",
-		"testNodeContentWrite" : "NickAger 2/1/2012 16:53",
-		"testObjectRoundtrip" : "NickAger 2/1/2012 16:53",
-		"testXmlDocumentCreationFromDescription" : "NickAger 2/3/2012 13:21",
-		"testXmlDocumentCreationFromObject" : "NorbertHartl 12/21/2010 15:17" } }
+		"simpleObject" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testAttributeWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testChildNodeAttributeWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testChildNodeContentWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testDescriptionConfigurationPropagation" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testNodeContentWrite" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testObjectRoundtrip" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testXmlDocumentCreationFromDescription" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testXmlDocumentCreationFromObject" : "SeanDeNigris 7/27/2016 20:52:23" } }
