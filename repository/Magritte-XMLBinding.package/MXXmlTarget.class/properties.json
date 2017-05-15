@@ -1,14 +1,11 @@
 {
-	"category" : "Magritte-XMLBinding",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "jvds 10/18/2010 21:37",
-	"instvars" : [
-		 ],
-	"name" : "MXXmlTarget",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Magritte-XMLBinding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MXXmlTarget",
+	"type" : "normal"
+}

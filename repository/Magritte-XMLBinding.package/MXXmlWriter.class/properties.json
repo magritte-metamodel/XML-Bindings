@@ -1,15 +1,14 @@
 {
-	"category" : "Magritte-XMLBinding",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "jvds 10/18/2010 21:34",
+	"super" : "MXXmlBinding",
+	"category" : "Magritte-XMLBinding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"containerNode",
-		"isExportableDefault" ],
+		"isExportableDefault"
+	],
 	"name" : "MXXmlWriter",
-	"pools" : [
-		 ],
-	"super" : "MXXmlBinding",
-	"type" : "normal" }
+	"type" : "normal"
+}
