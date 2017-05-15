@@ -1,5 +1,4 @@
 reading
 getTextFrom: aContainerNode
-
-	^(self getNodeFrom: aContainerNode)
-		ifNotNilDo: [ :elem | elem contentString ]
+	^ (self getNodeFrom: aContainerNode)
+		ifNotNil: [ :elem | elem contentString ]

@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAttributeCustom" : "NickAger 2/1/2012 14:39",
-		"testAttributeDefault" : "NickAger 2/1/2012 14:41",
-		"testAttributeNested" : "NickAger 2/1/2012 14:44",
-		"testAttributeNestedCustom" : "NickAger 2/1/2012 14:49",
-		"testBlock" : "NickAger 2/1/2012 14:52",
-		"testBlockWithNil" : "NickAger 2/1/2012 14:55",
-		"testContainerElementCustom" : "NickAger 2/1/2012 12:19",
-		"testContainerElementWithTypeAttribute" : "NickAger 2/1/2012 14:57",
-		"testElementCustom" : "NickAger 2/1/2012 15:04",
-		"testElementDefault" : "NickAger 2/1/2012 15:15" } }
+		"testAttributeCustom" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testAttributeDefault" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testAttributeNested" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testAttributeNestedCustom" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testBlock" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testBlockWithNil" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testContainerElementCustom" : "PeterUhnak 2/12/2017 23:07",
+		"testContainerElementWithTypeAttribute" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testElementCustom" : "SeanDeNigris 7/27/2016 20:52:23",
+		"testElementDefault" : "SeanDeNigris 7/27/2016 20:52:23" } }
